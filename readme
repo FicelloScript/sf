@@ -5,3 +5,5 @@ docker-compose up -d
 npm -g install @wordpress/env
 
 wp-env start
+
+http://localhost:8888/
