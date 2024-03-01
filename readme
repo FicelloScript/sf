@@ -1,0 +1,7 @@
+How to install ?
+
+docker-compose up -d
+
+npm -g install @wordpress/env
+
+wp-env start
